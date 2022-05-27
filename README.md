@@ -1,6 +1,6 @@
-# practice
+# Dice Roll app
 
-A new Flutter project.
+This is my practice Flutter project.
 
 ## Getting Started
 
